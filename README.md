@@ -1,2 +1,3 @@
-# next-quiz-platform-963j
-Automated issue comment bot repository
+# Next Quiz Platform 963J
+
+Automated issue comment bot repository.
